@@ -75,6 +75,10 @@ ul li
   padding: 0 0 4px 5px;
   line-height: 1.5em;}
 
+  ul ul {
+    font-size: 85%;
+  }
+
 ol
 { margin: 8px 0 22px 20px;}
 
